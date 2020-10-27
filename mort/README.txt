@@ -15,3 +15,6 @@ visuals/
 ├── navigation/
 │   ├── side
 ┴   └── top
+
+
+... stuff i never go to in this repo
